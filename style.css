@@ -12,5 +12,16 @@ header  {
 h1 {
     color : gray;
 } 
+h3 {
+    text-align: center;
+    color : grey
+}
+p {
+    background-color: black;
+    color :white;
+}
 
-
+div {
+    border :2 solid blueviolet;
+    border-radius: 5px;
+}
