@@ -22,6 +22,8 @@ p {
 }
 
 div {
+    padding :5px;
+    margin-top: 10px;
     border :2 solid blueviolet;
     border-radius: 5px;
 }
